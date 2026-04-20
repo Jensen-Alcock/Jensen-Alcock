@@ -1,9 +1,9 @@
-## About me
+## About me:
 
 - 🔭 I’m currently working on brachytherapy plan modulation metrics for my MSc
 - 🌱 I’m currently learning how to use GitHub
 - 💬 Ask me about physics!
-- 📫 How to reach me: Jensen.alcock@ccdhb.org.nz
+- 📫 Reach me at: Jensen.alcock@ccdhb.org.nz
   
 
 
